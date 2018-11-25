@@ -1,0 +1,6 @@
+[2018-11-20 00:10:09 America/Los_Angeles] Warning: A MySQL connection established in 2.928 s.
+[2018-11-21 04:41:02 America/Los_Angeles] Warning: A MySQL connection established in 1.184 s.
+[2018-11-21 13:42:36 Africa/Lagos] Warning: A MySQL query executed in 3.095 s. Query: select * from `mysop`.`lc_countries`
+        where status;
+[2018-11-21 13:48:51 America/Los_Angeles] Warning: A MySQL connection established in 1.546 s.
+[2018-11-21 13:49:11 America/Los_Angeles] Warning: A MySQL connection established in 1.148 s.

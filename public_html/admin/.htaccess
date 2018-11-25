@@ -1,0 +1,16 @@
+# Solve 401 rewrite and auth conflict on some machines
+ErrorDocument 401 "Access Forbidden"
+
+# Basic authentication
+<IfModule mod_auth.c>
+  AuthType Basic
+  AuthName "Restricted Area"
+  AuthUserFile "C:/Bitnami/wampp/apache2/htdocs/litecart-2.1.4/public_html/admin/.htpasswd"
+  Require valid-user
+</IfModule>
+<IfModule mod_auth_basic.c>
+  AuthType Basic
+  AuthName "Restricted Area"
+  AuthUserFile "C:/Bitnami/wampp/apache2/htdocs/litecart-2.1.4/public_html/admin/.htpasswd"
+  Require valid-user
+</IfModule>

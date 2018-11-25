@@ -1,0 +1,202 @@
+## [2018-11-21 21:51:57] Request ##############################
+
+GET /feeds/discussions.rss HTTP/1.1
+Host: www.litecart.net
+User-Agent: LiteCart/2.1.4
+Content-Length: 0
+Connection: Close
+
+
+
+## [2018-11-21 21:51:58] Response — 9358 bytes transferred in 1.074 s ##############################
+
+HTTP/1.1 200 OK
+Date: Wed, 21 Nov 2018 20:51:57 GMT
+Content-Type: application/rss+xml; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d6bdb0715b93a57565dff8bfdf59a11a81542833517; expires=Thu, 21-Nov-19 20:51:57 GMT; path=/; domain=.litecart.net; HttpOnly
+X-Powered-By: LiteCart HQ
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Content-Language: en
+Set-Cookie: LCSESSID=dd4dd0e790f77de04f6246cfc0420fa4; path=/
+Set-Cookie: language_code=en; expires=Fri, 21-Dec-2018 20:51:57 GMT; Max-Age=2592000; path=/
+Set-Cookie: cart[uid]=5bf5c56d9c427; expires=Thu, 21-Nov-2019 20:51:57 GMT; Max-Age=31536000; path=/
+Set-Cookie: currency_code=USD; expires=Fri, 21-Dec-2018 20:51:57 GMT; Max-Age=2592000; path=/
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 47d6098bfc615fd5-MRS
+
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>LiteCart Forum Discussions</title>
+    <link>https://www.litecart.net/forums/</link>
+    <description>The most recent forum activity.</description>
+    <language>en</language>
+    <item>
+      <category><![CDATA[Feature Requests]]></category>
+      <title><![CDATA[Books, pdf or digital products]]></title>
+      <link>https://www.litecart.net/forums/5/feature-requests/5974/books-pdf-or-digital-products</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[navarro_2]]></author>
+      <pubDate>Wed, 21 Nov 2018 12:23:04 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Errors and Troubleshooting]]></category>
+      <title><![CDATA[Warning strtotime() errors all over all pages]]></title>
+      <link>https://www.litecart.net/forums/15/errors-and-troubleshooting/8847/warning-strtotime-errors-all-over-all-pages</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[jonas32]]></author>
+      <pubDate>Tue, 20 Nov 2018 14:14:51 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Errors and Troubleshooting]]></category>
+      <title><![CDATA[Free shipping, why doesnt it work ?]]></title>
+      <link>https://www.litecart.net/forums/15/errors-and-troubleshooting/8856/free-shipping-why-doesnt-it-work</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[jonas32]]></author>
+      <pubDate>Tue, 20 Nov 2018 10:20:22 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Feature Requests]]></category>
+      <title><![CDATA[A Search-logger]]></title>
+      <link>https://www.litecart.net/forums/5/feature-requests/8855/a-search-logger</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[xyncro]]></author>
+      <pubDate>Sun, 18 Nov 2018 15:12:51 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Installation and Configuration]]></category>
+      <title><![CDATA[change top category menu how]]></title>
+      <link>https://www.litecart.net/forums/3/installation-and-configuration/8854/change-top-category-menu-how</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[jonas32]]></author>
+      <pubDate>Sun, 18 Nov 2018 09:46:01 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[General Discussions]]></category>
+      <title><![CDATA[Button in admin order send sms email]]></title>
+      <link>https://www.litecart.net/forums/2/general-discussions/8845/button-in-admin-order-send-sms-email</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[jonas32]]></author>
+      <pubDate>Sat, 17 Nov 2018 01:50:12 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Feature Requests]]></category>
+      <title><![CDATA[Displaying specific photo of item being ordered]]></title>
+      <link>https://www.litecart.net/forums/5/feature-requests/8499/displaying-specific-photo-of-item-being-ordered</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[busybusy]]></author>
+      <pubDate>Fri, 16 Nov 2018 03:35:46 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Feature Requests]]></category>
+      <title><![CDATA[Count Views for Products. Display in admin area.]]></title>
+      <link>https://www.litecart.net/forums/5/feature-requests/8492/count-views-for-products-display-in-admin-area</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[gazzari]]></author>
+      <pubDate>Fri, 16 Nov 2018 00:15:46 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Feature Requests]]></category>
+      <title><![CDATA[How to remove  Tax ID / VATIN ]]></title>
+      <link>https://www.litecart.net/forums/5/feature-requests/8739/how-to-remove-tax-id-vatin</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[vasko]]></author>
+      <pubDate>Thu, 15 Nov 2018 17:33:49 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Feature Requests]]></category>
+      <title><![CDATA[How can I add other social media: instagram]]></title>
+      <link>https://www.litecart.net/forums/5/feature-requests/8837/how-can-i-add-other-social-media-instagram</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[ash]]></author>
+      <pubDate>Thu, 15 Nov 2018 17:30:53 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Installation and Configuration]]></category>
+      <title><![CDATA[Fatal Error 1054 - Unknown Column]]></title>
+      <link>https://www.litecart.net/forums/3/installation-and-configuration/5433/fatal-error-1054-unknown-column</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[honour77]]></author>
+      <pubDate>Thu, 15 Nov 2018 12:45:51 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Add-ons]]></category>
+      <title><![CDATA[Widget display order]]></title>
+      <link>https://www.litecart.net/forums/7/add-ons/8832/widget-display-order</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[xyncro]]></author>
+      <pubDate>Thu, 15 Nov 2018 10:20:06 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[General Discussions]]></category>
+      <title><![CDATA[Url translation]]></title>
+      <link>https://www.litecart.net/forums/2/general-discussions/8784/url-translation</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[dodo]]></author>
+      <pubDate>Mon, 12 Nov 2018 22:31:13 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Errors and Troubleshooting]]></category>
+      <title><![CDATA[file_exists(): open_basedir restriction in effect.]]></title>
+      <link>https://www.litecart.net/forums/15/errors-and-troubleshooting/8795/file-exists-open-basedir-restriction-in-effect</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[dodo]]></author>
+      <pubDate>Sun, 11 Nov 2018 23:20:32 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Installation and Configuration]]></category>
+      <title><![CDATA[Multiple categories in the navbar and sidebar]]></title>
+      <link>https://www.litecart.net/forums/3/installation-and-configuration/8741/multiple-categories-in-the-navbar-and-sidebar</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[tomwin]]></author>
+      <pubDate>Sun, 11 Nov 2018 14:45:42 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Templates and CSS]]></category>
+      <title><![CDATA[Insert carousel in Category/Product description]]></title>
+      <link>https://www.litecart.net/forums/12/templates-and-css/7824/insert-carousel-in-category-product-description</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[areasas]]></author>
+      <pubDate>Sun, 11 Nov 2018 13:30:02 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Add-ons]]></category>
+      <title><![CDATA[Error: Not a valid document]]></title>
+      <link>https://www.litecart.net/forums/7/add-ons/8785/error-not-a-valid-document</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[acid]]></author>
+      <pubDate>Sat, 10 Nov 2018 14:05:18 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Templates and CSS]]></category>
+      <title><![CDATA[New templates]]></title>
+      <link>https://www.litecart.net/forums/12/templates-and-css/8783/new-templates</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[dodo]]></author>
+      <pubDate>Fri, 09 Nov 2018 16:40:22 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Errors and Troubleshooting]]></category>
+      <title><![CDATA[how can I edit config file to connect to existing ]]></title>
+      <link>https://www.litecart.net/forums/15/errors-and-troubleshooting/8771/how-can-i-edit-config-file-to-connect-to-existing</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[garrytodd]]></author>
+      <pubDate>Wed, 07 Nov 2018 23:09:42 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Add-ons]]></category>
+      <title><![CDATA[Mollie]]></title>
+      <link>https://www.litecart.net/forums/7/add-ons/8775/mollie</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[dodo]]></author>
+      <pubDate>Wed, 07 Nov 2018 10:27:50 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
+
+
